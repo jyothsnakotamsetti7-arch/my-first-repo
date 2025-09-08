@@ -1,0 +1,5 @@
+Name: k.Jyothsna
+course: bsc-AI
+about GitHub:-
+  
+git hub is a cloud based platform which used for projects.
